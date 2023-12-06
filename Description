@@ -1,0 +1,4 @@
+I wanted to creat a Duck Hunt Replica of the old old Duck Hunt Game. 
+I want to have a duck that goes from one side of the screen to the next without leaving the screen. 
+When the duck is clicked on by the player, I want the duck to disapear and add 100 points if they hit, and lose 50 if they miss.
+I want to Have a 60 second timer, when the timer ends, stop the game and display the players score.
